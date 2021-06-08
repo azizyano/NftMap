@@ -1,0 +1,30 @@
+{
+  "name": "nftmap-zilliqa-ipfs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@zilliqa-js/zilliqa": "^3.0.0",
+    "bootstrap": "^3.3.7",
+    "browserify-fs": "^1.0.0",
+    "fs-extra": "^6.0.1",
+    "google-map-react": "^2.1.9",
+    "ipfs-api": "^22.0.2",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "react-dropzone": "^4.2.8",
+    "react-geocode": "^0.2.3",
+    "react-google-autocomplete": "^2.4.0",
+    "react-google-maps": "^9.4.5",
+    "react-navigator-geolocation": "^1.0.8",
+    "react-scripts": "1.1.4",
+    "tslib": "^2.2.0",
+    "web3": "^1.3.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
