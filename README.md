@@ -40,7 +40,7 @@ npm run start
 youtube video link
 
 
-### Importing 
+#! 
 mint function not working will fix the bug (ZilPay : wallet not find)
 
 
