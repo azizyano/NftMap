@@ -41,7 +41,7 @@ youtube video link
 
 
 #! 
-mint function not working will fix the bug (ZilPay : wallet not find)
+mint function not working.I will fix the bug (ZilPay : wallet not find)
 
 
 
