@@ -5,6 +5,7 @@ build with love in Zilliqa blockchain
 
 Hackathon https://gitcoin.co/issue/Zilliqa/Zilliqa/2547/100025674
 
+## Demo https://www.youtube.com/watch?v=oNFbj6RVQGc
 
 ## Install
 
