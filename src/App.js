@@ -54,7 +54,7 @@ class App extends Component {
     this.setState({ networkId: networkId });
 
     if (networkId) {
-      const contractAddress = "zil15v3d0jxaeglprqde7pmtllyd45jnd9dkr99fhj";
+      const contractAddress = "***";
       const contract = zilliqa.contracts.at(contractAddress);
 
       this.setState({ contract });
